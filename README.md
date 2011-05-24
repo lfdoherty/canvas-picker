@@ -31,3 +31,5 @@ Every different object you create requires a hidden canvas object to be created 
 
 
 Tested on Firefox 4 and Chrome 11.
+
+Released under MIT license.
